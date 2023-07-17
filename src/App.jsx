@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Container className="my-5 mainPage">
-        <Titulo></Titulo>
+        <Titulo subtitulo="Subtítulo hecho con props"></Titulo>
       </Container>
       <Footer></Footer>
     </>
