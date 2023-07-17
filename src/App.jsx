@@ -1,10 +1,18 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { Container } from "react-bootstrap";
 import "./App.css";
+import Titulo from "./components/Titulo";
+import Footer from "./components/Footer";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Container className="my-5 mainPage">
+        <Titulo></Titulo>
+      </Container>
+      <Footer></Footer>
+    </>
+  );
 }
 
 export default App;
