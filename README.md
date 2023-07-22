@@ -1,10 +1,8 @@
 # Trabajo Práctico React 💻
 
-Aquí describimos los ejercicios 1 y 2 del Trabajo Práctico de REACT.
+Aquí describimos el ejercicio 1 del Trabajo Práctico de REACT.
 
-## Ejercicio 1 y 2 ✅
-
-### Ejercicio 1
+## Ejercicio 1 ✅
 
 1. Hello world - Dificultad: 🟢
 
@@ -14,14 +12,6 @@ Aquí describimos los ejercicios 1 y 2 del Trabajo Práctico de REACT.
 
 ---
 
-### Ejercicio 2
-
-2. Hello world (parte 2)- Dificultad: 🟢
-
-   Modificar el componente anterior y enviar mediante props el valor “My friend” de manera que el mensaje quede de la siguiente forma:
-
-   ![Alt text](image-1.png)
-
 Utilizamos [React-Bootstrap](https://react-bootstrap.netlify.app/) **v2.9.0** en nuestro proyecto para incoroporar el Container, y usamos el **"bootstrap/dist/css/bootstrap.min.css"** para utilizar los estilos de Bootstrap.
 
 ---
@@ -29,8 +19,6 @@ Utilizamos [React-Bootstrap](https://react-bootstrap.netlify.app/) **v2.9.0** en
 > **IMPORTANTE:** Para ambos casos tenemos que importar estas herramientas con el **import**.
 
 ---
-
-Además utilizamos el objeto props para mandar información (en este caso un string que sería el stubtítulo) desde un Componente padre (**App.jsx**) a un Componente hijo (**Titulo.jsx**).
 
 ## Repositorio
 

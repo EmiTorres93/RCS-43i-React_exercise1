@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Container className="my-5 mainPage">
-        <Titulo subtitulo="Hello my Friend !"></Titulo>
+        <Titulo></Titulo>
       </Container>
       <Footer></Footer>
     </>
